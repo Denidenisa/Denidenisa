@@ -126,6 +126,8 @@ Mon objectif est de rejoindre une équipe où je pourrai continuer à apprendre 
 |---|---|
 | 🎨 Frontend | [SoundOfYou](https://github.com/Denidenisa/SoundOfYou) |
 | ⚙️ Backend | [BackendSoundOfYou](https://github.com/Denidenisa/BackendSoundOfYou) |
+| 🚀 Live | [sound-of-you-delta.vercel.app](https://sound-of-you-delta.vercel.app) |
+
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
