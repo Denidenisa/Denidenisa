@@ -96,6 +96,9 @@ Mon objectif est de rejoindre une équipe où je pourrai continuer à apprendre 
 
 ### 💸 Compost The Rich – Hackathon
 > Jeu de boss contre des milliardaires. Création de la page d'accueil, des fonds et mouvements des personnages dans Unity.
+> | | Lien |
+|---|---|
+| 🎮 Compost The Rich | [Voir le projet](https://nadtr.github.io/Compost_the_Rich_web) |
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
