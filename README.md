@@ -151,7 +151,7 @@ Mon objectif est de rejoindre une équipe où je pourrai continuer à apprendre 
 
 ---
 ###  📖 Portfolio
->  Mon portfolio
+>  Portfolio personnel présentant mes projets,compétances et parcours en tant que [dévloppeuse front-end].
 
 | | Lien |
 |---|---|
