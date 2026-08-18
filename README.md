@@ -83,7 +83,7 @@ Mon objectif est de rejoindre une équipe où je pourrai continuer à apprendre 
 
 ---
 
-### 🌸 Flow Garden – Timer Jardin
+### 🌸⌛ Flow Garden – Timer Jardin
 > Site web inspiré du Petit Prince : un timer Pomodoro avec liste de tâches. Après chaque session, une fleur pousse dans ton jardin.
 
 📦 [Voir le code → workshop](https://github.com/Denidenisa/workshop)
@@ -94,7 +94,7 @@ Mon objectif est de rejoindre une équipe où je pourrai continuer à apprendre 
 
 ---
 
-### 💸 Compost The Rich – Hackathon
+### 💸💰 Compost The Rich – Hackathon
 > Jeu de boss contre des milliardaires. Création de la page d'accueil, des fonds et mouvements des personnages dans Unity.
 
 | | Lien |
@@ -107,7 +107,7 @@ Mon objectif est de rejoindre une équipe où je pourrai continuer à apprendre 
 
 ---
 
-### 🐝 BeeProductive – Site REACTJs
+### 🐝📋 BeeProductive – Site REACTJs
 > Site de tâches, timer, connexion fait en React et Node.js.
 
 | | Lien |
@@ -123,7 +123,7 @@ Mon objectif est de rejoindre une équipe où je pourrai continuer à apprendre 
 
 ---
 
-### 🎵 Sound Of You
+### 🎵💽 Sound Of You
 > App web thérapeutique où les utilisateurs partagent des chansons liées à une émotion. Chaque émotion a une couleur thérapeutique qui change le fond de la page.
 
 | | Lien |
@@ -141,7 +141,7 @@ Mon objectif est de rejoindre une équipe où je pourrai continuer à apprendre 
 
 ---
 
-### 🔢 Calculatrice
+### 🔢🧮 Calculatrice
 > Calculatrice web simple pour consolider les bases du développement front-end.
 
 📦 [Voir le code → calculatrice-calculator](https://github.com/Denidenisa/calculatrice-calculator)
