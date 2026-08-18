@@ -150,7 +150,7 @@ Mon objectif est de rejoindre une équipe où je pourrai continuer à apprendre 
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
 ---
-###  📖 Portfolio
+###  📔🙋🏻‍♀️ Portfolio
 >  Portfolio personnel présentant mes projets,compétances et parcours en tant que [dévloppeuse front-end].
 
 | | Lien |
